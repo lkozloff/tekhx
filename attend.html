@@ -46,7 +46,7 @@
 							<nav id="nav">
 								<ul>
 									<li><a href="index.html">Welcome</a></li>
-									<li>
+									<li class="current">
 										<a href="attend.html">Attend</a>
 									</li>
 									<li><a href="present.html">Present</a></li>
@@ -57,25 +57,66 @@
 
 					</header>
 				</div>
-
-
 			<!-- Main -->
 				<div id="main-wrapper">
 					<div class="container">
-						<div id="content">
+						<div class="row 200%">
+							<div class="4u 12u$(medium)">
+								<div id="sidebar">
 
-							<!-- Content -->
-								<article>
+									<!-- Sidebar -->
+										<section>
+											<h2>Schedule Overview</h2>
+											<h3>Friday Oct 2nd</h3>
+											<p>Friday evening is the pre-conference social event. We'll kick things off by getting together, discussing what's going on and having some fun!</p>
+											<h3>Saturday Oct 3rd</h3>
+											<p>Saturday is the conference day! We'll spend the day at Logos International School listening to a variety of talks, presenations and attending workshops given by local teachers like yourself</p>
 
-									<h2>Success!</h2>
+										</section>
 
-									<p>We couldn't have a successful conference without people like you!</p>
+								</div>
+							</div>
+							<div class="8u 12u$(medium) important(medium)">
+								<div id="content">
 
-									<p>If you're presenting and you'd like to present in multiple sessions, please fill out that form once more by hitting the back button. Or, you can also
-										go back to <a href="present.html">registration</a>.
+									<!-- Content -->
+										<article>
 
-								</article>
+											<h2>So, you want to attend?</h2>
 
+											<p>First, thanks! We couldn't have a successful conference without people willing to give up some time to come and learn.
+												If you didn't attend last year, welcome! If you did, welcome back! In either case, it's going to be a fun weekend. </p>
+											<p>We promise we won't spam you or sell your contact information. We won't even contact you about other events if you don't want us to!</p>
+
+
+											<h3>Attendees</h3>
+											<form method="POST" action="http://api.cloudstitch.com/lyle/magic-form-2/datasources/sheet" style="background-color: #efefef; padding: 2em;">
+												<label>Name (or how you'd like to be referred to)</label>
+												<input type="text" name="name"></input>
+												<label>Where you work</label>
+												<input type="text" name="location"></input>
+												<label>Email address</label>
+												<input type="email" name="email"></input>
+												<label>Social profile (Twitter handle, G+ URL, Facebook URL)</label>
+												<input type="text" name="social"></input>
+												<label>I'm coming to...</label>
+												<select name="type">
+													<option selected>--- Choose one ---</option>
+													<option>The social and the conference (Oct 2-3)</option>
+													<option>Just the conference day (Oct 3rd)</option>
+												</select>
+												<label>I want to hear about other Tekhx events</label>
+												<input type="radio" name="contactme" value="Yes">Yes</input>
+												<input type="radio" name="contactme" value="No">No</input>
+												<br/><br/>
+												<input type="submit">
+												<input type="hidden" name="_redirect" value="http://tekhx.com/success.html">
+												<input type="hidden" name="_redirectError" value="http://tekhx.com/error.html">
+											</form>
+										</article>
+
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>

@@ -1433,7 +1433,7 @@
 	}
 
 	header {
-		margin: 0 0 2em 0;
+		margin: 0;
 	}
 
 		header h2, header h3 {
@@ -1606,7 +1606,7 @@
 		-webkit-appearance: none;
 		position: relative;
 		display: inline-block;
-		background: #0090c5;
+		background: #E54E7A;
 		color: #fff;
 		text-decoration: none;
 		border-radius: 6px;
@@ -1633,7 +1633,7 @@
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #10a0d5;
+			background: #632236;
 		}
 
 		input[type="button"]:active,
@@ -1892,7 +1892,7 @@
 	#nav {
 		position: absolute;
 		right: 0;
-		top: 0;
+		top: 4.5em;
 		font-size: 0.9em;
 	}
 

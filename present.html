@@ -6,14 +6,31 @@
 -->
 <html>
 	<head>
-		<title>tekhin twenty-fifteen</title>
+		<title>Tekhin twenty-fifteen</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+		<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		<link rel="manifest" href="/manifest.json">
+		<meta name="msapplication-TileColor" content="#ffffff">
+		<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+		<meta name="theme-color" content="#ffffff">
 	</head>
-	<body class="left-sidebar">
+	<body class="homepage">
 		<div id="page-wrapper">
 
 			<!-- Header -->
@@ -21,18 +38,25 @@
 					<header id="header" class="container">
 
 						<!-- Logo -->
-							<div id="logo">
-								<a href="index.html"><img src="images/tekhin2015-web-nobg-01.png"/></a>
-							</div>
+						<div id="logo">
+							<a href="index.html"><img src="images/tekhin2015-web-nobg-01.png"/></a>
+						</div>
 
 						<!-- Nav -->
 							<nav id="nav">
-
+								<ul>
+									<li><a href="index.html">Welcome</a></li>
+									<li>
+										<a href="attend.html">Attend</a>
+									</li>
+									<li class="current"><a href="present.html">Present</a></li>
+									<li><a href="about.html">About</a></li>
+									<li><a href="schedule.html">Schedule</a></li>
+								</ul>
 							</nav>
 
 					</header>
 				</div>
-
 			<!-- Main -->
 				<div id="main-wrapper">
 					<div class="container">
@@ -56,8 +80,27 @@
 													<li>Make sure you send your presentation to the organizers so they can link it on this site</li>
 												</ul>
 											</p> -->
-											<footer>
-											</footer>
+
+											<p>Some slam-dunks from Tekhin '14 were:
+												<br/><strong>"Quick tips for Chrome"</strong>
+												<br/><strong>"Flipping the math classroom"</strong>
+												<br/><strong>"Learning outside the classroom with technology"</strong>
+
+												<h3>What's a topic presentation?</h3>
+												<p>A topic presentation is a 60 minute look at a topic that goes a bit more in depth than a slam-dunk. </p>
+
+												<p>Some topic presentations from Tekhin '14 were:
+													<br/><strong>"Minecraft in the classroom"</strong>
+													<br/><strong>"20 tips in 60 minutes: Google Drive"</strong>
+													<br/><strong>"Safely giving young children a voice on the web (Blogger for ages 5-9)"</strong>
+
+												<h3>What's a workshop?</h3>
+												<p>A workshop is a 120 minute deep look at a topic. It will probably (but not always) have a hands on component.</p>
+
+												<p>We didn't have any workshops at Tekhin '14, but we did have some topics that would have made good workshops:
+													<br/><strong>"3d modeling in Blender"</strong>
+													<br/><strong>"Garageband in the classroom"</strong>
+													<br/><strong>"Lego Robotics"</strong>
 										</section>
 
 								</div>
@@ -81,7 +124,7 @@
 											<p>Good topics will include some practical tips, some additional resources to explore afterwards and
 											maybe even some hands on time.</p>
 											<p>The best tip of all is to ask yourself: <em>"If I didn't know this topic, would I want to see this presentation?"</em></p>
-
+											<p>We promise we won't spam you, sell your information or even send you follow up emails about other events after the conference! (no, really!)</p>
 											<h3>Registration</h3>
 											<form method="POST" action="http://api.cloudstitch.com/lyle/magic-form-1/datasources/sheet" style="background-color: #efefef; padding: 2em;">
 												<label>Name (or how you'd like to be referred to)</label>
@@ -103,6 +146,7 @@
 												<input type="text" name="title"></input>
 												<label>Description of your presentation</label>
 												<textarea name="description" rows="4" cols="40"></textarea>
+												<br/>
 												<input type="submit">
 												<input type="hidden" name="_redirect" value="http://tekhx.com/success.html">
 												<input type="hidden" name="_redirectError" value="http://tekhx.com/error.html">
@@ -115,7 +159,6 @@
 					</div>
 				</div>
 
-			<!-- Footer -->
 				<div id="footer-wrapper">
 					<footer id="footer" class="container">
 						<div class="row">
@@ -123,7 +166,14 @@
 
 								<!-- Links -->
 									<section class="widget links">
-
+										<h3>Organising Schools</h3>
+										<ul class="style2">
+											<li><a href="http://www.hope.edu.kh">HOPE International School</a></li>
+											<li><a href="http://www.ispp.edu.kh">International School of Phnom Penh</a></li>
+											<li><a href="http://www.ligerlearning.org/">Liger Learning Center</a></li>
+											<li><a href="http://www.logoscambodia.org">Logos International School</a></li>
+											<li><a href="http://www.nisc.edu.kh">Northbridge International School</a></li>
+										</ul>
 									</section>
 
 							</div>
@@ -131,7 +181,10 @@
 
 								<!-- Links -->
 									<section class="widget links">
-
+										<h3>Sponsors</h3>
+										<ul class="style2">
+											<li><a href="http://asianhope.org">Asian Hope Cambodia</a></li>
+										</ul>
 									</section>
 
 							</div>
@@ -139,15 +192,22 @@
 
 								<!-- Links -->
 									<section class="widget links">
-
+										<h3>Other Resources</h3>
+										<ul class="style2">
+											<li><a href="https://plus.google.com/communities/115759393495063552111">GEG Phnom Penh</a></li>
+										</ul>
 									</section>
 
 							</div>
 							<div class="3u 6u$(medium) 12u$(small)">
 
 								<!-- Contact -->
-									<section class="widget contact">
-
+									<section class="widget contact last">
+										<h3>Contact Us</h3>
+										<ul>
+											<li><a href="https://twitter.com/tekhx" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+											<li><a href="https://www.facebook.com/tekhx" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+										</ul>
 									</section>
 
 							</div>
@@ -176,4 +236,4 @@
 			<script src="assets/js/main.js"></script>
 
 	</body>
-</html>
+	</html>
