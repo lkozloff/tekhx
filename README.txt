@@ -1,16 +1,44 @@
-Verti by HTML5 UP
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A Jekyll port of the Spectral theme by HTML5 UP.
+Find the original non-jekyll theme at: http://html5up.net/
+Note: @arkadianriver is in no way associated with @n33co
+      other than I really like his _style_! get it?
+Below is @n33co's readme from the original pure HTML theme
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Spectral by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-A super simple + modern responsive website template. Took a slightly different direction
-on the mobile version's slide out nav (floating button versus a full on titlebar).
+
+A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
+and an assortment of pre-styled elements. So, pretty much what you were expecting
+-- except, of course, for how it's put together, specifically:
+
+- It's built on Skel 3*, a leaner, more modular rewrite of my responsive framework.
+
+  (* = still in development as of this writing)
+
+- It uses flexbox*, which eliminates all kinds of terrible hacks and clunky layout
+  stopgaps (like CSS grid systems).
+
+  (* = not supported on IE8/9, but non-flexbox fallbacks are included)
+
+- It uses Sass* a lot more intelligently, thanks in part to several new mixins
+  and functions I've been working on (as well as a few by @HugoGiraudel).
+
+  (* = still entirely optional if you prefer vanilla CSS :)
+
+- A ton of other stuff.
+
+In short, Spectral's the culmination of several new things I'm working on/trying out,
+so please, let me know what you think :)
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
 
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+(* = not included)
 
 AJ
 n33.co @n33co dribbble.com/n33
@@ -27,7 +55,7 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
+		background-size polyfill (github.com/louisremi)
+		Misc. Sass functions (@HugoGiraudel)
 		Respond.js (j.mp/respondjs)
-		jquery.dropotron (n33.co)
 		Skel (skel.io)
