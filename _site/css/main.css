@@ -565,7 +565,16 @@ input[type="submit"].disabled, input[type="submit"]:disabled, input[type="reset"
 .features li:nth-child(7) { background-color: rgba(0, 0, 0, 0.245); }
 .features li:nth-child(8) { background-color: rgba(0, 0, 0, 0.28); }
 .features li:nth-child(9) { background-color: rgba(0, 0, 0, 0.315); }
-.features li:nth-child(10) { background-color: rgba(0, 0, 0, 0.35); }
+.features li:nth-child(19) { background-color: rgba(0, 0, 0, 0.35); }
+.features li:nth-child(18) { background-color: rgba(0, 0, 0, 0.035); }
+.features li:nth-child(17) { background-color: rgba(0, 0, 0, 0.07); }
+.features li:nth-child(16) { background-color: rgba(0, 0, 0, 0.105); }
+.features li:nth-child(15) { background-color: rgba(0, 0, 0, 0.14); }
+.features li:nth-child(14) { background-color: rgba(0, 0, 0, 0.175); }
+.features li:nth-child(13) { background-color: rgba(0, 0, 0, 0.21); }
+.features li:nth-child(12) { background-color: rgba(0, 0, 0, 0.245); }
+.features li:nth-child(11) { background-color: rgba(0, 0, 0, 0.28); }
+.features li:nth-child(10) { background-color: rgba(0, 0, 0, 0.315); }
 .features li:before { display: block; color: #00ffcc; position: absolute; left: 1.75em; top: 2.75em; font-size: 1.5em; }
 .features li:nth-child(1) { border-top-left-radius: 3px; }
 .features li:nth-child(2) { border-top-right-radius: 3px; }
@@ -591,7 +600,16 @@ input[type="submit"].disabled, input[type="submit"]:disabled, input[type="reset"
 .spotlight:nth-child(7) { background-color: rgba(0, 0, 0, 0.525); }
 .spotlight:nth-child(8) { background-color: rgba(0, 0, 0, 0.6); }
 .spotlight:nth-child(9) { background-color: rgba(0, 0, 0, 0.675); }
-.spotlight:nth-child(10) { background-color: rgba(0, 0, 0, 0.75); }
+.spotlight:nth-child(19) { background-color: rgba(0, 0, 0, 0.75); }
+.spotlight:nth-child(18) { background-color: rgba(0, 0, 0, 0.075); }
+.spotlight:nth-child(17) { background-color: rgba(0, 0, 0, 0.15); }
+.spotlight:nth-child(16) { background-color: rgba(0, 0, 0, 0.225); }
+.spotlight:nth-child(15) { background-color: rgba(0, 0, 0, 0.3); }
+.spotlight:nth-child(14) { background-color: rgba(0, 0, 0, 0.375); }
+.spotlight:nth-child(13) { background-color: rgba(0, 0, 0, 0.45); }
+.spotlight:nth-child(12) { background-color: rgba(0, 0, 0, 0.525); }
+.spotlight:nth-child(11) { background-color: rgba(0, 0, 0, 0.6); }
+.spotlight:nth-child(10) { background-color: rgba(0, 0, 0, 0.675); }
 @media screen and (max-width: 1280px) { .spotlight .image { width: 45%; }
   .spotlight .content { width: 55%; } }
 @media screen and (max-width: 980px) { .spotlight { display: block; }
