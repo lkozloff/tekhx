@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <style>
+            @import url(https://fonts.googleapis.com/css?family=Roboto);
+            @page{size: landscape;}
+            #pageA4{
+                   position: absolute;
+                   left: 0;
+                   top: 0;
+                   margin: 0;
+                   padding: 0;
+                   width: 297mm;
+                   height: 209mm;
+                   font-family: "Roboto" sans-serif;
+                   text-align: center;
+                   background-image: url('images/tekhinexport.png');
+                   background-size: cover;
+            }
+
+            #name{
+                    font-size: 75pt;
+                    position: absolute;
+                    top: 235px;
+                    left: 40px;
+
+
+            }
+            #hours{
+                font-size: 12pt;
+                position: absolute;
+                top: 769px;
+                left: 552px;
+                font-style: italic;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="pageA4">
+            <div id="name">This Guy</div>
+            <div id="hours"></div>
+        </div>
+    </body>
+
+    <script type="text/javascript">
+              var URL = document.URL;
+              var stem = URL.split("?");
+              var fullname = stem[1].split("=");
+              fullname = decodeURIComponent(atob(fullname[1]));
+              document.getElementById('name').innerHTML = fullname;
+
+
+    </script>
+</html>
