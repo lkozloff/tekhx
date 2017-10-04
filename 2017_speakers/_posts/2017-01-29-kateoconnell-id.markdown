@@ -1,5 +1,5 @@
 ---
-title: Kate O'Connell (ISPP)
+title: Kate O'Connell (NISC)
 name: Kate-OConnell
 subtitle: Technology Integration and the SAMR Model (In Depth)
 layout: 2017_default
