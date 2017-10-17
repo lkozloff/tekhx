@@ -1,6 +1,6 @@
 ---
 title: Kari Findley (Footprints)
-name: Kari-Findley
+name: Kari-Findley-ID
 subtitle: Use ClassDojo Features Like a Pro to Create, Collaborate & Communicate (In Depth)
 layout: 2017_default
 modal-id: 1

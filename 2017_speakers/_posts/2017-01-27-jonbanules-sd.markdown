@@ -1,6 +1,6 @@
 ---
 title: Jon Banules (ISPP)
-name: Jon-Banules
+name: Jon-Banules-SD
 subtitle: Screencasting Variations (Slam-Dunk)
 layout: 2017_default
 modal-id: 1

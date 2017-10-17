@@ -1,6 +1,6 @@
 ---
 title: Alirio Rodriguez (NISC)
-name: Alirio-Rodriguez
+name: Alirio-Rodriguez-SD1
 subtitle: Digital Storytelling using blended environment (Slam-Dunk)
 layout: 2017_default
 modal-id: 1

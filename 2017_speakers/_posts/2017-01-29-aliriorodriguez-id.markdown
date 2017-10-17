@@ -1,6 +1,6 @@
 ---
 title: Alirio Rodriguez (NISC)
-name: Alirio-Rodriguez
+name: Alirio-Rodriguez-ID
 subtitle: Using Fun Theory for Classroom Projects (In Depth)
 layout: 2017_default
 modal-id: 1

@@ -1,6 +1,6 @@
 ---
 title: Joanna Brown (NISC)
-name: Joanna-Brown
+name: Joanna-Brown-ID
 subtitle: Using Technology to Differentiate Schoolwide for EAL and SEN students (In Depth)
 layout: 2017_default
 modal-id: 1

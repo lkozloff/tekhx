@@ -1,6 +1,6 @@
 ---
 title: Martin McGuiness (Footprints)
-name: Martin-McGuiness
+name: Martin-McGuiness-SD
 subtitle: Using ClassDojo (Slam-Dunk)
 layout: 2017_default
 modal-id: 1

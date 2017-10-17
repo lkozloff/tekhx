@@ -1,6 +1,6 @@
 ---
 title: Rebecca Chen (ISPP)
-name: Rebecca-Chen
+name: Rebecca-Chen-ID
 subtitle: 21st Century Differentiation - Video Instruction (In Depth) 
 layout: 2017_default
 modal-id: 1

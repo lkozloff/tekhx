@@ -1,6 +1,6 @@
 ---
 title: Paul Stanley (NISC)
-name: Paul-Stanley
+name: Paul-Stanley-ID
 subtitle: Using Nearpod Software for Formative Assessment and Student Engagement (In Depth)
 layout: 2017_default
 modal-id: 1

@@ -1,6 +1,6 @@
 ---
 title: Elaine Reimann (ISPP)
-name: Elaine-Reimann
+name: Elaine-Reimann-SD
 subtitle: Story Park (Slam-Dunk)
 layout: 2017_default
 modal-id: 1

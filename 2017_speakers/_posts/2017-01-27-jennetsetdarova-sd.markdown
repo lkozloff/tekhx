@@ -1,6 +1,6 @@
 ---
 title: Jennet Setdarova (Zaman)
-name: Jennet-Setdarova
+name: Jennet-Setdarova-SD
 subtitle: Prezi (Slam-Dunk)
 layout: 2017_default
 modal-id: 1

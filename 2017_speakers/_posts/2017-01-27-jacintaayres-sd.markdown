@@ -1,6 +1,6 @@
 ---
 title: Jacinta Ayres (AHIS)
-name: Jacinta-Ayres
+name: Jacinta-Ayres-SD
 subtitle: Tech for Formative Assessment (Slam-Dunk)
 layout: 2017_default
 modal-id: 1

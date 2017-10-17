@@ -1,6 +1,6 @@
 ---
 title: Chelsea Woods (ISPP)
-name: Chelsea-Woods
+name: Chelsea-Woods-SD1
 subtitle: Managing YouTube accounts in Cambodia and editing video with YouTube video editor. (Slam Dunk)
 layout: 2017_default
 modal-id: 1

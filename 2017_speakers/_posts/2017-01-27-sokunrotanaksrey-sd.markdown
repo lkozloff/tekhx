@@ -1,6 +1,6 @@
 ---
 title: Sokunrotanak Srey (Asian Hope)
-name: Sokunrotanak-Srey
+name: Sokunrotanak-Srey-SD
 subtitle: Make your browsing life easier with Google Chrome (Slam-Dunk)
 layout: 2017_default
 modal-id: 1

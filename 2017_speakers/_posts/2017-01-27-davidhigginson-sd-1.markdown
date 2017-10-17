@@ -1,6 +1,6 @@
 ---
 title: David Higginson (iCAN)
-name: David-Higginson
+name: David-Higginson-SD
 subtitle: Coding for Kids (Slam-Dunk)
 layout: 2017_default
 modal-id: 1

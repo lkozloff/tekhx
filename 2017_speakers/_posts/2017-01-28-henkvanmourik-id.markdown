@@ -1,6 +1,6 @@
 ---
 title: Henk van Mourik (ISPP)
-name: Henk-van Mourik
+name: Henk-van Mourik-ID
 subtitle: Students' weekly TV news on YouTube (In Depth)
 layout: 2017_default
 modal-id: 1

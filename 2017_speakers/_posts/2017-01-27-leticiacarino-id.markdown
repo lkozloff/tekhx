@@ -1,6 +1,6 @@
 ---
 title: Leticia Carino (ISPP)
-name: Leticia-Carino
+name: Leticia-Carino-SD
 subtitle: Twitter and Tweetdeck (Slam-Dunk)
 layout: 2017_default
 modal-id: 1

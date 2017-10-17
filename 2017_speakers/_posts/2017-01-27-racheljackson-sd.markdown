@@ -1,6 +1,6 @@
 ---
 title: Rachel Jackson (ISPP)
-name: Rachel-Jackson
+name: Rachel-Jackson-SD
 subtitle: Savvy info consumers - determining the reliability of sources (Slam-Dunk)
 layout: 2017_default
 modal-id: 1

@@ -1,6 +1,6 @@
 ---
 title: Leap Sok (System Experts)
-name: Leap-Sok
+name: Leap-Sok-ID
 subtitle: Open Source Technology for education institutions (In Depth)
 layout: 2017_default
 modal-id: 1

@@ -1,6 +1,6 @@
 ---
 title: Andy Groom (NISC)
-name: Andy-Groom
+name: Andy-Groom-SD
 subtitle: Why Incorporate STEAM in your classroom programme (Slam-Dunk)
 layout: 2017_default
 modal-id: 1

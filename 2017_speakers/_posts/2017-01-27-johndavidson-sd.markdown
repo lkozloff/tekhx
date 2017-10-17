@@ -1,6 +1,6 @@
 ---
 title: John Davidson (CIA First)
-name: John-Davidson
+name: John-Davidson-SD
 subtitle: Decent Discussions through Digital Deconstructed Debates (Slam-Dunk)
 layout: 2017_default
 modal-id: 1

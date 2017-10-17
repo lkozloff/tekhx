@@ -1,6 +1,6 @@
 ---
 title: David Tan (MyTeb)
-name: David-Tan
+name: David-Tan-SD
 subtitle: Hands on with Google Chromebooks (Slam-Dunk)
 layout: 2017_default
 modal-id: 1

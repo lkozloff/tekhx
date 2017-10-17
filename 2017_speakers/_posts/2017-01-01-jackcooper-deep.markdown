@@ -1,6 +1,6 @@
 ---
 title: Jack Cooper (NISC)
-name: Jack-Cooper
+name: Jack-Cooper-Deep
 subtitle: Fail often - Fail hard - Fail forward. (Deep)
 layout: 2017_default
 modal-id: 1

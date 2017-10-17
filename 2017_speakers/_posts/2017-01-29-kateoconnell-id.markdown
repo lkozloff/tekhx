@@ -1,6 +1,6 @@
 ---
 title: Kate O'Connell (NISC)
-name: Kate-OConnell
+name: Kate-OConnell-ID
 subtitle: Technology Integration and the SAMR Model (In Depth)
 layout: 2017_default
 modal-id: 1

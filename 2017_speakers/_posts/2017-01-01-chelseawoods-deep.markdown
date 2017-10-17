@@ -1,6 +1,6 @@
 ---
 title: Chelsea Woods (ISPP)
-name: Chelsea-Woods
+name: Chelsea-Woods-Deep
 subtitle: 3D Game Design in Unity using C# (Deep)
 layout: 2017_default
 modal-id: 1

@@ -1,6 +1,6 @@
 ---
 title: Lyle Kozloff (Asian Hope)
-name: Lyle-Kozloff
+name: Lyle-Kozloff-SD
 subtitle: No offense.. but you're bad at spreadsheets. (Slam-Dunk)
 layout: 2017_default
 modal-id: 1

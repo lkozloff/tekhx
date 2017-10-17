@@ -1,6 +1,6 @@
 ---
 title: Lyle Kozloff (Asian Hope)
-name: Lyle-Kozloff
+name: Lyle-Kozloff-ID
 subtitle: Google Docs - 20 tips in 60 minutes (In Depth)
 layout: 2017_default
 modal-id: 1

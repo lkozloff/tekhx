@@ -1,6 +1,6 @@
 ---
 title: Dalton Flanagan (NISC)
-name: Dalton-Flanagan
+name: Dalton-Flanagan-ID
 subtitle: Creating a Connected Classroom (In Depth)
 layout: 2017_default
 modal-id: 1

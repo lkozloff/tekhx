@@ -1,6 +1,6 @@
 ---
 title: Bannhat Phat & Dishant Sehgal (NISC)
-name: Bannhat-Phat-Dishant-Sehgal
+name: Bannhat-Phat-Dishant-Sehgal-SD
 subtitle: Adaptabot - Student-designed educational robot kit (Slam-Dunk)
 layout: 2017_default
 modal-id: 1

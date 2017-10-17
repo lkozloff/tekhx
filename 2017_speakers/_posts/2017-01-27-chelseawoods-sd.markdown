@@ -1,6 +1,6 @@
 ---
 title: Chelsea Woods (ISPP)
-name: Chelsea-Woods
+name: Chelsea-Woods-SD2
 subtitle: Using a Collaborative Class Notebook with Google Docs. (Slam Dunk)
 layout: 2017_default
 modal-id: 1

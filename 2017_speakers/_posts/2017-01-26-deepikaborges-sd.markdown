@@ -1,6 +1,6 @@
 ---
 title: Deepika Borges (NISC)
-name: Deepika-Borges
+name: Deepika-Borges-SD
 subtitle: Story telling using Augmented Reality (Slam Dunk)
 layout: 2017_default
 modal-id: 1
